@@ -1,2 +1,2 @@
-# tabela-periodoca
+# exercicio 04
 tabela periodica
