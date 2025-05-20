@@ -1,0 +1,46 @@
+
+body{
+background-color:darkgrey;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1;
+}
+
+.conteiner{
+
+
+
+}
+
+
+.linha01{
+
+    
+}
+
+.quadrado01{
+background-color: rgb(84, 168, 35);
+justify-content: center;
+display: flex;
+color: rgb(0, 0, 0);
+height: 80px;
+width: 80px;
+border: 3px solid;
+align-items: center ;
+padding:3px ;
+
+
+
+
+}
+.li{
+color: rgb(206, 155, 14);
+justify-content: center;
+display: flex;
+height: 80px;
+width: 80px;
+border: 3px solid;
+align-items: center;
+padding:3px ;
+
+
+}
