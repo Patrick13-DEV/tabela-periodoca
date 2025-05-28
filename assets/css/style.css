@@ -9,11 +9,13 @@ body {
 }
 h1 {
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
     font-weight: bold;
 }
 p{
     text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
 }
 .tabela {
     width: 100vw;
@@ -50,13 +52,22 @@ height: 100px;
 width: 1895px;
 height: 37px;
 }
-.quadrado {
+.vazioelemento{
+width: 727px;
+height: 80px;
+}
+.quadrado{
     height: 100px;
     width: 100px;
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
     margin: 3px;
     border-radius: 5%;
+}
+.quadradoelemento{
+width: 30px;
+height:30px;
+background-color: brown;
 }
 .numero{
     font-size: 15px;
